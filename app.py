@@ -1,9 +1,9 @@
 #addition 
-def addition (x,y,z): 
+def addition (x,y,z):
+    return x+y+z 
     print (x+y+z)
 
-def subtraction (x,y): 
-    print (x-y)
-#Subtraction 
+#subtraction  
 def subtraction (x,y,z): 
     return x-y-z
+    print (x-y-z)
