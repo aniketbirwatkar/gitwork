@@ -7,3 +7,13 @@ def addition (x,y,z):
 def subtraction (x,y,z): 
     return x-y-z
     print (x-y-z)
+
+#Multilpication 
+def multilpication (x,y,z) : 
+    return x*y*z
+    print (z*y*z)
+
+#Division 
+def division (x,y): 
+    return x/y
+    print (x/y)
