@@ -2,5 +2,6 @@
 def addition (x,y,z): 
     return x+y+z 
 
-def subtraction (x,y): 
-    return x-y 
+#Subtraction 
+def subtraction (x,y,z): 
+    return x-y-z
